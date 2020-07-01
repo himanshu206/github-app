@@ -1,0 +1,22 @@
+.issue-row-view {
+    display: flex;
+    height: 3rem;
+    padding: 0.5rem;
+    border-bottom: 0.1rem solid whitesmoke;
+    flex-direction: column;
+}
+
+.issue-row-view__title {
+    font-weight: bold;
+}
+
+.issue-row-view__meta {
+    display: flex;
+    margin-top: 0.5rem;
+    color: grey;
+    font-size: 0.8rem;
+}
+
+.issue-row-view__meta span {
+    margin-right: 1rem
+}

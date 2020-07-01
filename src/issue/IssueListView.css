@@ -1,0 +1,5 @@
+.issue-list-view {
+    border: 0.1rem solid whitesmoke;
+    height: 30rem;
+    overflow-y: scroll;
+}
